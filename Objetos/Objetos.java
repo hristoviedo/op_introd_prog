@@ -1,5 +1,3 @@
-import java.beans.ConstructorProperties;
-
 class Objetos {
     public static void main(String[] args) {
         Carro miCarro = new Carro();
